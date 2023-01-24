@@ -39,13 +39,13 @@ pip install pycrypto
 
 ## Quick start
 
-#### Step-1
+### Step-1
 
 execute the `key_generate.py` program to generate the public key and private key of RSA. After the execution is completed, a new folder called RSA_Key will be automatically created, and the public key and private key of RSA will be stored in RSA_Key folder.
 
 ![image](https://github.com/JingHanLiao/RSA_AES-CTR/blob/master/IMG/1.png)
 
-#### Step-2
+### Step-2
 
 Please execute the `encryption.py` program to encryption the plaintext. During the encryption process, you need to input a string on the terminal, and the program will treat the input string as plaintext and save in `/data/input_msg.txt`. After the execution is completed, the plaintext encrypted to ciphertext save in `/data/msg_cipher.txt` and the encrypted AES key will save in `/data/encrypted_AES_key.txt`.
 
@@ -53,7 +53,7 @@ Please execute the `encryption.py` program to encryption the plaintext. During t
 
 ![image](https://github.com/JingHanLiao/RSA_AES-CTR/blob/master/IMG/3.png)
 
-#### Step-3
+### Step-3
 
 Please execute the `decryption.py` program to decryption the ciphertext. After the execution is completed, The program will output decrypting the ciphertext to the result, The result is save in `/data/output_msg.txt`. Finally, you can verify the original message `input_msg.txt` and the decrypted message `output_msg.txt` are the same or consistent.
 
