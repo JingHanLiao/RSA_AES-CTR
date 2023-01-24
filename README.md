@@ -1,17 +1,12 @@
 # RSA+AES-CTR for Python
 
-This Project will show the using RSA and AES-CTR to encryption the Plaintext then decryption the Ciphertext
+This Project will show the using RSA and AES-CTR to encryption the Plaintext then decryption the Ciphertext.
 
 ## Table of Contents
 
-- [Background](#background)
+- [Top-level directory](#top-level-directory)
 - [Install](#install)
-- [Badge](#badge)
-- [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
+- [Quick start](#quick-start)
 
 ## Top-level directory
 
